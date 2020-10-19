@@ -1,2 +1,2 @@
-# python
-Python codes
+# Python
+Basic Python Codes
